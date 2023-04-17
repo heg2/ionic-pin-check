@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@capacitor/android": "latest",
-    "@capacitor/core": "latest,
+    "@capacitor/core": "latest",
     "@capacitor/docgen": "latest",
     "@capacitor/ios": "latest",
     "@ionic/eslint-config": "^0.3.0",
