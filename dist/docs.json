@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "PinCheckPlugin",
+    "slug": "pincheckplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "pinCheck",
+        "signature": "() => Promise<{ value: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "pincheck"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
