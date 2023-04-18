@@ -1,4 +1,5 @@
 # pin-check
+This is a fork of @creativeCookie/pin-check, just for setting the peerDependency for capacitor to "latest", allowing the plugin to work with capacitor 4.
 
 A capicator plugin to check on iOS / Android devices if the password pin is enabled or not on the mobile device.
 
@@ -11,7 +12,7 @@ npx cap sync
 
 ## USAGE IN IONIC 5/6
 1. After installing include in the module page that you want to use with the import below
-2. import { PinCheck } from '@creativecookie/pin-check';
+2. import { PinCheck } from '@heg2/pin-check';
 3. in your function, (await PinCheck.pinCheck()).value will return either true or false
 
 ## API
