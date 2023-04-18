@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CreativecookiePinCheck.podspec"
+    "Heg2PinCheck.podspec"
   ],
   "author": "Mark Ng",
   "license": "MIT",
