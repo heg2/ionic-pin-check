@@ -1,6 +1,8 @@
 # pin-check
 This is a fork of @creativeCookie/pin-check, just for setting the peerDependency for capacitor to "latest", allowing the plugin to work with capacitor 4.
 
+On iOS Simulator, `pincheck()` always returns true, even no pin code is set. On iOS devices, it works reliably tough. (And on Android devices and simulator).
+
 A capicator plugin to check on iOS / Android devices if the password pin is enabled or not on the mobile device.
 
 ## Install
